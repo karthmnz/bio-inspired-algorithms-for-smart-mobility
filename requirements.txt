@@ -1,0 +1,12 @@
+osmnx==0.16.0
+tqdm
+ipyleaflet
+plotly
+folium
+keplergl
+osmapi
+matplotlib
+scipy
+scikit-learn
+pandas
+numpy
